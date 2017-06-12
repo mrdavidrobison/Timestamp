@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/mrdavidrobison/Timestamp/issues"
   },
-  "homepage": "https://github.com/mrdavidrobison/Timestamp#readme"
+  "homepage": "https://github.com/mrdavidrobison/Timestamp#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3"
+  }
 }
